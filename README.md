@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrnaz&repo=github-readme-stats)](https://github.com/andrnaz/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreNazar&repo=coLimg)](https://github.com/AndreNazar/coLimg)
 
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
 
