@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codewars](https://www.codewars.com/users/AndreNazar/badges/large)](https://www.codewars.com/users/AndreNazar)
+[![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
 
 <!--
 **AndreNazar/AndreNazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
