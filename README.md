@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Привет 👋
+#### Посмотрите мои закрепленные репозитории, у них у всех есть github-страница!
 
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
 
