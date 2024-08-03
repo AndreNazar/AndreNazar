@@ -1,4 +1,4 @@
-![]([https://img1.picmix.com/output/stamp/normal/9/0/3/6/2066309_ec180.gif](https://effects1.ru/gallery/GIF/Glitter/glitter-74.gif))
+![](https://effects1.ru/gallery/GIF/Glitter/glitter-74.gif)
 ### Привет 👋
 
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
