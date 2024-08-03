@@ -1,4 +1,4 @@
-[](https://trimatric.studio/frontend/assets/media/service/web.gif)
+![](https://trimatric.studio/frontend/assets/media/service/web.gif)
 ### Привет 👋
 
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
