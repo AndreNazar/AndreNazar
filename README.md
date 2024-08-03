@@ -1,4 +1,4 @@
-![](https://habrastorage.org/getpro/habr/post_images/e23/0c1/32c/e230c132c89da0ff30c544c9a0eaf7b2.gif)
+![](https://i.pinimg.com/originals/01/5e/29/015e294789bbc1dbbb5adddbbdd50075.gif)
 ### Привет 👋
 
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
