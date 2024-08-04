@@ -1,4 +1,4 @@
-## 👋 Привет, меня зовут Андрей, я Frontend-разработчик!
+### 👋 Привет, меня зовут Андрей, я Frontend-разработчик!
 ![](https://trimatric.studio/frontend/assets/media/service/web.gif)
 
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
