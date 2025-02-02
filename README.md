@@ -3,7 +3,7 @@
 
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
 
-#### Посмотрите мои закрепленные репозитории, у них у всех есть своя github-страница! 👇
+#### Посмотрите мои закрепленные репозитории, у всех них есть свои github-страницы! 👇
 <!--
 **AndreNazar/AndreNazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
