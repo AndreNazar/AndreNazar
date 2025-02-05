@@ -1,5 +1,5 @@
 ### 👋 Привет, меня зовут Андрей, я Frontend-разработчик!
-![](https://trimatric.studio/frontend/assets/media/service/web.gif)
+![](https://jibebemedia.co.ke/wp-content/uploads/2022/08/Rocket-Digital-Marketing-Gif-1.gif)
 
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
 
