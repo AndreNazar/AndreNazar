@@ -4,7 +4,6 @@
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
 
 📋[Портфолио](https://andrenazar.github.io/)
-#### Посмотрите мои закрепленные репозитории, у всех них есть свои github-страницы! 👇
 <!--
 **AndreNazar/AndreNazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
