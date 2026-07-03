@@ -1,6 +1,6 @@
 ### 👋 Привет, меня зовут Андрей, я Frontend-разработчик!
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/2de8d699-c6b1-4aac-8c7f-3384bfd86a69" />
+<img src="https://i.ibb.co/k2qvcL04/69ac22a2e7029fd3b3902761ac9a246d-1-1-1-1-1.png" alt="69ac22a2e7029fd3b3902761ac9a246d (1) (1) (1) (1) (1)" border="0">
 
 
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
