@@ -1,10 +1,13 @@
 ### 👋 Привет, меня зовут Андрей, я Frontend-разработчик!
-![](https://firepixel.com/wp-content/uploads/2023/09/web-development-1.gif)
+
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/2de8d699-c6b1-4aac-8c7f-3384bfd86a69" />
+
 
 [![codewars](https://www.codewars.com/users/andrnaz/badges/large)](https://www.codewars.com/users/andrnaz)
 
 <!--
 **AndreNazar/AndreNazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://firepixel.com/wp-content/uploads/2023/09/web-development-1.gif)
 
 Here are some ideas to get you started:
 
